@@ -1,6 +1,5 @@
 import React from "react";
 
 export default function About(params) {
-    return <>
-    About us page </>
+  return <>Hi! this is a About us page </>;
 }
